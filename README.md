@@ -35,7 +35,7 @@ The model was trained on a publicly available dataset from Kaggle:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/fraud-detection-api.git
+git clone https://github.com/Soham-droid-pixel/fraud-detection-api.git
 cd fraud-detection-api
 ```
 
