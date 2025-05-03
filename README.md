@@ -35,8 +35,8 @@ The model was trained on a publicly available dataset from Kaggle:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Soham-droid-pixel/fraud-detection-api.git
-cd fraud-detection-api
+git clone https://github.com/Soham-droid-pixel/Fraud-Detection-System.git
+cd fraud-detection-system
 ```
 
 ### 2. Create & Activate Virtual Environment
